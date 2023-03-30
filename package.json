@@ -1,0 +1,24 @@
+{
+  "name": "teste-rotas",
+  "version": "1.0.0",
+  "description": "Teste de uma rota para enviar dados de um form para o banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaoviitor/teste-rotas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaoviitor/teste-rotas/issues"
+  },
+  "homepage": "https://github.com/jaoviitor/teste-rotas#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
